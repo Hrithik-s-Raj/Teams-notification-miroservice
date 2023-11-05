@@ -4,6 +4,6 @@
   status = 200
 
 [template.environment]
-  COURIER_AUTH_TOKEN = "Courier auth token (required)"
-  MSTEAMS_APP_ID = "Microsoft Teams App ID (required)"
-  MSTEAMS_APP_PASSWORD = "Microsoft Teams App Password (required)"
+  COURIER_AUTH_TOKEN = "pk_prod_8DAC3B75HJMTSFPSX0TVT1FRW6JH"
+  MSTEAMS_APP_ID = "894e992a-494a-444c-a1e2-16b69cc7e641"
+  MSTEAMS_APP_PASSWORD = "-K1-8Q~5ojCTZSydgM6NC4JqSNMvYnq3JEAvNQcO0"
